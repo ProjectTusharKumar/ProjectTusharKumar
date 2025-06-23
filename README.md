@@ -10,7 +10,7 @@ I’m delving into Python, machine learning frameworks, and building intelligent
 I’m always open to collaborating on innovative and impactful projects, especially in web and mobile application development. Let's build something amazing together!  
 
 ### 📫 How to Reach Me  
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/tus4ar-kumar-Vanity ) or email me at itstusharkumar15@gmail.com (mailto:itstusharkumar15@gmail).  
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/tus4ar-kumar-Vanity ) or email me at itstusharkumar15@gmail.com.  
 
 ### 😄 Pronouns  
 He/Him  
